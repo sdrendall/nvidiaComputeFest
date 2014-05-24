@@ -1,0 +1,7 @@
+Matrix size is 1024
+Total memory required is 25.165824 MB
+Total time GPU CUBLAS is 0.002225 sec
+Performance is 965.025872 GFlop/s
+Total time GPU NAIVE is 0.028037 sec
+Performance is 76.595962 GFlop/s
+error is 0.000000
